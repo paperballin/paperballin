@@ -4,7 +4,5 @@
 [![网易云音乐](https://img.shields.io/badge/网易云音乐-E60026?logo=netscape&logoColor=white)](https://music.163.com/#/user/home?id=SeasonTea)
 ## 个人介绍
 卷是卷不过的，躺也是躺不平的，还是热爱技术。现在处于理想和现实的交织状态，重塑自己的世界观。
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paperballin&theme=dark)   
-![LeetCode Stats](https://leetcard.jacoblin.cool/paperballin2021?theme=dark&font=Akshar&ext=heatmap)
+## 最近状况
+研究vibe coding中
