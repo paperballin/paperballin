@@ -3,6 +3,6 @@
 [![B站](https://img.shields.io/badge/B站-00A1D6?logo=bilibili&logoColor=white)](https://space.bilibili.com/25564947?spm_id_from=333.1007.0.0)
 [![网易云音乐](https://img.shields.io/badge/网易云音乐-E60026?logo=netscape&logoColor=white)](https://music.163.com/#/user/home?id=SeasonTea)
 ## 个人介绍
-卷是卷不过的，躺也是躺不平的，还是热爱技术。现在处于理想和现实的交织状态，重塑自己的世界观。
+卷是卷不过的，躺也是躺不平的，还是热爱技术。现在处于理想和现实的交织状态，重塑自己的世界观
 ## 最近状况
-失业了，经济穷迫，活着就很厉害了
+失业了，经济穷迫，活着就很厉害了，可能会做点东西放到github和B站，随便玩玩
